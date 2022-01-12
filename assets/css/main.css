@@ -2660,7 +2660,7 @@ input, select, textarea {
 			}
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 8.25em;
+			width: 6.25em;
 		}
 
 		#header > header {
@@ -2674,7 +2674,7 @@ input, select, textarea {
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 8em;
+				width: 6.25em;
 			}
 
 			#header > header h1 {
