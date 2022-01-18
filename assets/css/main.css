@@ -173,7 +173,7 @@ input, select, textarea {
 
 	h6 {
 		font-size: 0.8em;
-		line-height: 1.35em;
+		line-height: 1.5em;
 	}
 
 	h7 {
@@ -1772,6 +1772,11 @@ input, select, textarea {
 
 	section.special, article.special {
 		text-align: center;
+	}
+
+	strong, b {
+		color: #787878;
+		font-weight: 400;
 	}
 
 	header p {
