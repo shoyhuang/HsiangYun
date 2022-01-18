@@ -178,7 +178,7 @@ input, select, textarea {
 
 	h7 {
 		font-size: 0.7em;
-		line-height: 1.2em;
+		line-height: 1.0em;
 	}
 
 	h8 {
@@ -1809,7 +1809,13 @@ input, select, textarea {
 	header.major h2 {
 		font-size: 2em;
 	}
-
+	
+	header h5 + b,
+	header h6 + b,
+	header h7 + b {
+		color: #787878;
+		font-weight: 400;
+	}
 /* Form */
 
 	form {
